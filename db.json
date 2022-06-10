@@ -1,0 +1,22 @@
+{
+  "details": [
+    {
+      "name": "sri",
+      "country": "india",
+      "email": "ss@gmail.com",
+      "persons": "2",
+      "dollors": "140",
+      "status": false,
+      "id": 1
+    },
+    {
+      "name": "srinivas",
+      "country": "Africa",
+      "email": "srit@gmail.com",
+      "persons": "7",
+      "dollors": "490",
+      "status": false,
+      "id": 2
+    }
+  ]
+}
